@@ -1,0 +1,6 @@
+npm start (시작)
+npx create-react-app 폴더명 (프로젝트 만들기)
+npm run build (빌딩)
+
+npm run deploy 하면 package.json에 있는 scripts를 만져줬기때문에
+predeploy와 deploy를 모두 실행시켜 깃허브에 올라가게 된다..!
